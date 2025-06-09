@@ -44,14 +44,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=seif-el-sayed1&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=seif-el-sayed1&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seif-el-sayed1&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seif-el-sayed1/seif-el-sayed1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seif-el-sayed1/seif-el-sayed1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/seif-el-sayed1/seif-el-sayed1/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
