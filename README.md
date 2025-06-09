@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="10" />
