@@ -51,3 +51,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/seif-el-sayed1/seif-el-sayed1/output/snake.svg" alt="Snake animation" />
+
+###
