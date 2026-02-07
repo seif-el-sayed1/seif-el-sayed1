@@ -101,10 +101,9 @@ I’m a **Backend-Focused Full-Stack Developer** passionate about building **hig
   <a href="https://wa.me/201126820975" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
- <div style="display: flex; align-items: center; gap: 10px;">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seifsayed121@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <span>seifsayed121@gmail.com</span>
-</div>
+</a>
 
 </p>
 
