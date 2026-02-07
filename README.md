@@ -84,8 +84,6 @@ I’m a **Backend-Focused Full-Stack Developer** passionate about building **hig
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.%20—%20Linus%20Torvalds" />
 </p>
 
-
-
 ---
 
 ### 🌐 Connect With Me
