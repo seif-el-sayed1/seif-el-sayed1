@@ -81,7 +81,7 @@ I’m a **Backend-Focused Full-Stack Developer** passionate about building **hig
 
 ### 💬 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Everybody%20should%20learn%20to%20program%20a%20computer%20because%20it%20teaches%20you%20how%20to%20think.&author=Steve%20Jobs" />
 </p>
 
 ---
