@@ -8,12 +8,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2700&pause=700&color=00FF9D&center=true&vCenter=true&width=650&lines=Backend+Focused+FullStack+Developer;Where+Frontend+Meets+Powerful+Backend+Logic;Creating+Reliable+Systems+from+Database+to+UI;Building+Scalable+APIs+with+Node.js;Designing+Clean+Architecture+and+Efficient+Databases" 
+  <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2700&pause=700&color=00FF9D&center=true&vCenter=true&width=700&lines=Backend+Focused+FullStack+Developer;Where+Frontend+Meets+Powerful+Backend+Logic;Creating+Reliable+Systems+from+Database+to+UI;Building+Scalable+APIs+with+Node.js;Designing+Clean+Architecture+and+Efficient+Databases" 
       alt="Typing SVG" 
-    />
-  </a>
+  />
 </p>
 
 ---
@@ -37,7 +35,6 @@ I’m a **Backend-Focused Full-Stack Developer** passionate about building **hig
 
 #### ⚙️ Core Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
@@ -84,8 +81,10 @@ I’m a **Backend-Focused Full-Stack Developer** passionate about building **hig
 
 ### 💬 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.%20—%20John%20Johnson" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.%20—%20Linus%20Torvalds" />
 </p>
+
+
 
 ---
 
