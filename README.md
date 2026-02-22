@@ -66,13 +66,13 @@ I’m a **Backend-Focused Full-Stack Developer** passionate about building **hig
 ### ⚡ GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seif-el-sayed1&theme=radical&show_icons=true&count_private=true&hide_border=false" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seif-el-sayed1&theme=radical&show_icons=true&count_private=true&hide_border=false" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seif-el-sayed1&theme=radical&hide_border=false" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seif-el-sayed1&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 ---
 
