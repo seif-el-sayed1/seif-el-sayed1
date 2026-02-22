@@ -9,7 +9,7 @@
 
 <p align="center">
   <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2700&pause=700&color=00FF9D&center=true&vCenter=true&width=700&lines=Backend+Focused+FullStack+Developer;Where+Frontend+Meets+Powerful+Backend+Logic;Creating+Reliable+Systems+from+Database+to+UI;Building+Scalable+APIs+with+Node.js;Designing+Clean+Architecture+and+Efficient+Databases" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2700&pause=700&color=00FF9D&center=true&vCenter=true&width=600&lines=Backend+Focused+FullStack+Developer;Where+Frontend+Meets+Powerful+Backend+Logic;Creating+Reliable+Systems+from+Database+to+UI;Building+Scalable+APIs+with+Node.js;Designing+Clean+Architecture+and+Efficient+Databases" 
       alt="Typing SVG" 
   />
 </p>
