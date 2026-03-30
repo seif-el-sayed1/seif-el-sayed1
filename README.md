@@ -15,11 +15,12 @@
 
 ### 🚀 About Me
 
-I’m a **Backend-Focused Full-Stack Developer** passionate about building **high-performance APIs** and **scalable systems**.I focus on **clean architecture**, **modular code**, and **efficient workflows**, from backend design to connecting frontend interfaces.I enjoy making apps **interactive in real-time** and ensuring systems **run reliably under load**.
+I'm a **Backend-Focused Full-Stack Developer** passionate about building **high-performance APIs** and **scalable systems**.I focus on **clean architecture**, **modular code**, and **efficient workflows**, from backend design to connecting frontend interfaces.I enjoy making apps **interactive in real-time** and ensuring systems **run reliably under load**.
 
 💡 **Key Skills**
 - Build backends that are clean, modular, and easy to maintain using the Controller → Service → Repository structure
 - Create high-performance REST APIs for scalable applications
+- Containerize applications using Docker, write multi-stage Dockerfiles, and manage services with Docker Compose including custom networks and volumes
 - Secure applications with JWT authentication, role-based permissions, and Joi validation
 - Handle background jobs and queue systems efficiently
 - Make apps interactive in real-time with Socket.io
@@ -36,6 +37,7 @@ I’m a **Backend-Focused Full-Stack Developer** passionate about building **hig
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 #### ☁️ Infrastructure & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
@@ -106,5 +108,5 @@ I’m a **Backend-Focused Full-Stack Developer** passionate about building **hig
 
 ---
 
-> ⚡ “Writing code that solves problems today, while designing systems ready for tomorrow.”  
+> ⚡ "Writing code that solves problems today, while designing systems ready for tomorrow."  
 > — *Seif Elsayed*
