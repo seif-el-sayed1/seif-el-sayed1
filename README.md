@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Backend-Focused Full-Stack Developer | Node.js | Express.js | MongoDB | Socket.io | React
+  💻 Backend-Focused Full-Stack Developer | Node.js | Express.js | Postgresql | MongoDB | Socket.io | React
 </h3>
 
 <p align="center">
@@ -45,7 +45,9 @@ I'm a **Backend-Focused Full-Stack Developer** passionate about building **high-
 
 #### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+:contentReference[oaicite:0]{index=0}
 #### 🖥️ Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
