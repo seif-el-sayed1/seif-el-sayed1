@@ -17,14 +17,7 @@
 
 I'm a **Backend-Focused Full-Stack Developer** passionate about building **high-performance APIs** and **scalable systems**.I focus on **clean architecture**, **modular code**, and **efficient workflows**, from backend design to connecting frontend interfaces.I enjoy making apps **interactive in real-time** and ensuring systems **run reliably under load**.
 
-
 ---
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-404D59?style=flat-square)
 
 💡 **Key Skills**
 - Build backends that are clean, modular, and easy to maintain using the Controller → Service → Repository structure
