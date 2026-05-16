@@ -20,10 +20,6 @@ I'm a **Backend-Focused Full-Stack Developer** passionate about building **high-
 
 ---
 
-### 🔒 Private Repositories
-
-> Some of my most impactful work lives in private repositories — production-grade systems, real-world integrations, and backend architectures I'm proud of. If you'd like a deeper look at what I build, feel free to reach out.
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
@@ -91,6 +87,9 @@ I'm a **Backend-Focused Full-Stack Developer** passionate about building **high-
 </p> -->
 
 ---
+### 🔒 Private Repositories
+
+> A good portion of my work lives in private repositories — professional projects that aren't publicly visible.
 
 ### 💬 Random Dev Quote
 <p align="center">
