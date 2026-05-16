@@ -90,6 +90,7 @@ I'm a **Backend-Focused Full-Stack Developer** passionate about building **high-
 ### 🔒 Private Repositories
 
 > A good portion of my work lives in private repositories — professional projects that aren't publicly visible.
+---
 
 ### 💬 Random Dev Quote
 <p align="center">
